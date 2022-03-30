@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "./static/js/main.8087dc15.js",
+    "static/js/787.b55f28f3.chunk.js": "./static/js/787.b55f28f3.chunk.js",
+    "static/media/pizza-3.jpg": "./static/media/pizza-3.f2f9b9a49128f877c57f.jpg",
+    "static/media/featured3.jpg": "./static/media/featured3.66d68644270582e9ce8d.jpg",
+    "static/media/pizza-quatro-queijos.jpg": "./static/media/pizza-quatro-queijos.f8594ec187ad6d29b3da.jpg",
+    "static/media/brownie-chocolate.jpg": "./static/media/brownie-chocolate.6eefc6c4d12accd17054.jpg",
+    "static/media/petit-gateau.jpg": "./static/media/petit-gateau.6e89234a39f765096a64.jpg",
+    "static/media/pizza-frango-catupiry.jpg": "./static/media/pizza-frango-catupiry.f753961ec1261277d73e.jpg",
+    "static/media/pizza-calabresa.jpg": "./static/media/pizza-calabresa.83f0934c20d48abd0897.jpg",
+    "static/media/pudim.jpg": "./static/media/pudim.2cad2b62db345a8a6d25.jpg",
+    "index.html": "./index.html",
+    "main.8087dc15.js.map": "./static/js/main.8087dc15.js.map",
+    "787.b55f28f3.chunk.js.map": "./static/js/787.b55f28f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8087dc15.js"
+  ]
+}
